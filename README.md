@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](![](https://media.giphy.com/media/3o7WTL4qQCbbLLV2Pm/giphy-downsized.gif)  |)  |
+![](https://media.giphy.com/media/mW05nwEyXLP0Y/giphy.gif)
 <!--
 **handa26/handa26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
