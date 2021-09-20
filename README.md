@@ -1,5 +1,8 @@
-### Hi there 👋
-![](https://media.giphy.com/media/mW05nwEyXLP0Y/giphy.gif)
+### Hi there, I'm Handa! 👋
+
+Frontend developer specializing in building (and occasionally backend stuff) websites.
+Find me on [Twitter](https://twitter.com/_handa26), [Linkedin](https://www.linkedin.com/in/anandamuhammadmtq/).
+Also checkout my [Portfolio website](https://ananda-muhammad.netlify.app/)😄.
 <!--
 **handa26/handa26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
