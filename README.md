@@ -2,7 +2,7 @@
 
 Frontend developer specializing in building (and occasionally backend stuff) websites.
 Find me on [Linkedin](https://www.linkedin.com/in/anandamuhammadmtq/).
-Also checkout my [Portfolio website](https://ananda-muhammad.netlify.app/)😄.
+Also checkout my [Portfolio website]([https://ananda-muhammad.netlify.app/](https://handa260.netlify.app/))😄.
 <!--
 **handa26/handa26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
